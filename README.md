@@ -1,0 +1,3 @@
+-Download 
+-Unzip
+-Drag the install.mel to Maya viewport
